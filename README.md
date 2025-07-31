@@ -25,6 +25,6 @@ No dudes en enviarme un mensaje. ¡Me encanta compartir conocimiento y trabajar 
 
 ⭐ Si te gusta mi trabajo, no olvides dejar una ⭐ en mis repositorios.  
 Gracias por pasar por aquí 👾  
-## Hi there 👋
+
 
 
