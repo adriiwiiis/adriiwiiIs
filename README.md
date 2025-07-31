@@ -1,16 +1,30 @@
+# 👋 ¡Hola! Soy adriiwiiIs
+
+💻 **Desarrollador de Bots y Herramientas en Python**  
+🤖 Especializado en proyectos para **Discord, Telegram y automatización**.  
+🚀 Me encanta crear scripts y programas que simplifican tareas y aportan valor.
+
+---
+
+## 🚀 Proyectos Destacados
+
+- 🤖 Bots de Discord y Telegram para automatización y gestión.  
+- 🐍 Scripts en Python para tareas de scraping, automatización y análisis.  
+- 📦 Herramientas personalizadas para mejorar la productividad y experiencia.
+
+---
+
+
+---
+
+## 💡 ¿Quieres colaborar o necesitas ayuda con Python?
+
+No dudes en enviarme un mensaje. ¡Me encanta compartir conocimiento y trabajar en equipo!
+
+---
+
+⭐ Si te gusta mi trabajo, no olvides dejar una ⭐ en mis repositorios.  
+Gracias por pasar por aquí 👾  
 ## Hi there 👋
 
-<!--
-**adriiwiiis/adriiwiiIs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
