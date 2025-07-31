@@ -14,7 +14,7 @@
 
 ---
 
-
+DISCORD : https://discord.gg/raiddshopp
 ---
 
 ## 💡 ¿Quieres colaborar o necesitas ayuda con Python?
